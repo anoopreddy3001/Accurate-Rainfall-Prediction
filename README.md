@@ -1,4 +1,4 @@
-**Rainfall Prediction Model using Supervised Learning**
+**Accurate Rainfall Prediction Model using Supervised Learning**
 
 This repository contains the implementation of a rainfall prediction model based on supervised learning techniques, specifically Support Vector Machine (SVM) and Artificial Neural Networks (ANN). The model aims to predict rainfall accurately, which is crucial for mitigating potential disasters such as floods and minimizing property damage.
 
